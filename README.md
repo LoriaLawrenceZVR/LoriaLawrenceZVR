@@ -22,18 +22,20 @@
   ```yaml
   name: Lorenzo Oliveira Zimbres
   located_in: Limeira, São Paulo (Brazil)
-  job: Looking
-  education: ["Internet Computing": "SENAC", "System Developing": "SENAC", "System Developing": "SENAI"]
-  company: OZimbres
+  job: Intern at VRSoftware
+  education: ["FIAP": "Software Engineering", "System Developing": "SENAI",
+              "Internet Computing": "SENAC", "System Developing": "SENAC"]
+  company: VRSoftware
   past_experiences:
     - ["Computer Operator", "Hardware Support", "Unigrês Cerâmica", "Brazil", "2023"]
 
   fields_of_interests: ["Machine Learning", "Deep Learning", "Neural Networks", "Cognitive Computing",
-                        "Natural Language Processing", "Data Analysis", "Web Development", "Software Development"]
+                        "Natural Language Processing", "Data Analysis", "Web Development", "Software Development",
+                        "Automation", "Business"]
   currently_learning: ["POO", "Software GUI", "Client-Side Programming", "Server-Side Programming",
-                        "Frameworks", "Database Managment"]
+                       "Frameworks", "Database Managment"]
   will_learn: ["AI"]
-  hobbies: ["Football", "Casual Gaming", "Manga", "IoT", "Robotics"]
+  hobbies: ["Football", "Manga"]
   ```
 
  <h3>⚡ Recent GitHub Activity</h3>

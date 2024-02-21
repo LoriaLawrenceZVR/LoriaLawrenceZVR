@@ -41,13 +41,13 @@
  <h3>⚡ Recent GitHub Activity</h3>
   <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#1](https://github.com/LoriaLawrenceZVR/Baeldung/pull/1#issuecomment-1956423729) in [LoriaLawrenceZVR/Baeldung](https://github.com/LoriaLawrenceZVR/Baeldung)
+1. 🎉 Merged PR [#2](https://github.com/LoriaLawrenceZVR/Baeldung/pull/2) in [LoriaLawrenceZVR/Baeldung](https://github.com/LoriaLawrenceZVR/Baeldung)
 
-2. 🎉 Merged PR [#1](https://github.com/LoriaLawrenceZVR/Baeldung/pull/1) in [LoriaLawrenceZVR/Baeldung](https://github.com/LoriaLawrenceZVR/Baeldung)
+2. 💪 Opened PR [#2](https://github.com/LoriaLawrenceZVR/Baeldung/pull/2) in [LoriaLawrenceZVR/Baeldung](https://github.com/LoriaLawrenceZVR/Baeldung)
 
-3. ❗ Opened issue [#2](https://github.com/LoriaLawrenceZVR/LoriaLawrenceZVR/issues/2) in [LoriaLawrenceZVR/LoriaLawrenceZVR](https://github.com/LoriaLawrenceZVR/LoriaLawrenceZVR)
+3. 💪 Opened PR [#1](https://github.com/LoriaLawrenceZ/Baeldung/pull/1) in [LoriaLawrenceZ/Baeldung](https://github.com/LoriaLawrenceZ/Baeldung)
 
-4. 🗣 Commented on [#1](https://github.com/LoriaLawrenceZVR/LoriaLawrenceZVR/issues/1#issuecomment-1936310127) in [LoriaLawrenceZVR/LoriaLawrenceZVR](https://github.com/LoriaLawrenceZVR/LoriaLawrenceZVR)
+4. 🗣 Commented on [#1](https://github.com/LoriaLawrenceZVR/Baeldung/pull/1#issuecomment-1956423729) in [LoriaLawrenceZVR/Baeldung](https://github.com/LoriaLawrenceZVR/Baeldung)
 
-5. 🔒 Closed issue [#1](https://github.com/LoriaLawrenceZVR/LoriaLawrenceZVR/issues/1) in [LoriaLawrenceZVR/LoriaLawrenceZVR](https://github.com/LoriaLawrenceZVR/LoriaLawrenceZVR)
+5. 🎉 Merged PR [#1](https://github.com/LoriaLawrenceZVR/Baeldung/pull/1) in [LoriaLawrenceZVR/Baeldung](https://github.com/LoriaLawrenceZVR/Baeldung)
   <!--END_SECTION:activity-->

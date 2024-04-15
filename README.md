@@ -1,4 +1,4 @@
-<!-- ### Hi, I'm Lorenzo O. Zimbres -->
+<!-- ### Hi, I'm Lorenzo O. Zimbres also know as LoriaLawrenceZ (LoriaLawrenceZVR for my job account)-->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF5F1F&height=80&section=header"/>
 

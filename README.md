@@ -41,7 +41,7 @@
  <h3>⚡ Recent GitHub Activity</h3>
   <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2](https://github.com/LoriaLawrenceZVR/Baeldung/pull/2) in [LoriaLawrenceZVR/Baeldung](https://github.com/LoriaLawrenceZVR/Baeldung)
+1. 🎉 Merged PR [#6](https://github.com/rafael-brito/VRFiscalDashboard/pull/6) in [rafael-brito/VRFiscalDashboard](https://github.com/rafael-brito/VRFiscalDashboard)
 
 2. 💪 Opened PR [#2](https://github.com/LoriaLawrenceZVR/Baeldung/pull/2) in [LoriaLawrenceZVR/Baeldung](https://github.com/LoriaLawrenceZVR/Baeldung)
 
